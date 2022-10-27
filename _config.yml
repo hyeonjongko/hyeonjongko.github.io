@@ -78,7 +78,7 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: 한림대학
+        title: 한림대학교
         caption: 2018 - 2022
         quote: >
           Unity Engine
