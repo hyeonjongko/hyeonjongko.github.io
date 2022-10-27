@@ -40,6 +40,7 @@ about_content: | # this will include new lines to allow paragraphs
     - 성격 : 활발하고 긍정적이며 끈기가 강하다.
     - 취미 : 여러 장르의 게임 하기
     - 특기 : 남의 이야기를 잘 들어준다.
+    
     ![Profile](https://user-images.githubusercontent.com/115774307/198256677-58230a50-0330-4561-bc28-31269fccd13f.jpg)
 content:
   - title: Projects # Title for the section
