@@ -96,9 +96,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+     현재는 게임 개발을 위해 Unreal 엔진을 학습하며 여러가지 게임을 취미로 플레이하며 내가 만들고 싶은 게임의 정보들을 확인하 학습을 하고 있다.
 
 # Footer
 footer_show_references: true
