@@ -36,14 +36,12 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
-
+안녕하세요 저는 게임 개발을 위해 공부를 하고있는 빅데이터 고현종입니다.
+    - 성격 : 활발하고 긍정적이며 끈기가 강하다.
+    - 취미 : 여러 장르의 게임 하기
+    - 특기 : 남의 이야기를 잘 들어준다.
+    
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
