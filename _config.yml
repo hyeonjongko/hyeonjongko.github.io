@@ -50,6 +50,7 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: 점프게임
+        content:
           - layout: top-left
         quote: >
           게임요약 : 탑안에 발판을 올라가 정상의 보물상자를 획득하는 게임.
