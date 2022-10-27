@@ -20,7 +20,7 @@ github_username:  hyeonjongko
 # Additional icon links
 additional_links:
 - title: README
-  icon: <FontAwesomeIcon icon="fa-solid fa-info" />
+  icon: <i class="fa-solid fa-info"></i>
   url: https://github.com/hyeonjongko
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
